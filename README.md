@@ -166,7 +166,7 @@ sudo systemctl enable mariadb
 ### Step 2 — Create the database and user
 
 ```bash
-mysql -u root
+sudo mysql -u root
 ```
 
 ```sql
